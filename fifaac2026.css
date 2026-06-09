@@ -1,0 +1,131 @@
+.fifabox{
+  width: 100%;
+  font-family: Bai Jamjuree;
+  margin: auto;
+  box-sizing: border-box;
+  padding-bottom: 20px;
+}
+
+.fifalogo{
+  width: 247px;
+  aspect-ratio: 1/1;
+  pointer-events: none;
+  user-select: none;
+  margin: auto;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 99;
+  background: url(https://i.ibb.co/YBbtdYsx/logo.png) center/cover;
+  }
+
+.fifabg{
+  width: 70%;
+  margin: auto;
+  box-sizing: border-box;
+  border-radius: 50px; 
+  background: #070606; 
+  filter: drop-shadow(0 0 27.5px #000000);
+}
+  
+.fifahead{
+  width: 100%;
+  height: 800px;
+  margin: auto;
+  box-sizing: border-box;
+  border-radius: 50px 50px 0px 0px;
+  background: url(https://i.ibb.co/G4Bp9h0r/01.png) 50% 19% / cover;
+  margin-top: -145px;
+}
+
+.fifahdtx{
+  text-align: center;
+  line-height: 0.9;
+  font-weight: 700;
+  margin-top: -637px;
+  color: #fff;
+}
+
+.fifaworldcup{
+  font-size: min(4.5vw, 68px);
+}
+
+.fifa2026{
+  font-size: min(11vw, 170px);
+}
+
+.fifatextbox{
+  padding: 0px 5vw 30px 5vw;
+  text-align: justify;
+  font-size: min(1.7vw, 18px);
+  color: #fff
+}
+
+.fifaballline{
+  width: 60%;
+  aspect-ratio: 16/1;
+  pointer-events: none;
+  user-select: none;
+  margin: auto;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 99;
+  background: url(https://i.ibb.co/wFNdG4Zn/image.png) center/cover;
+}
+
+.fifatext {
+  text-indent:50px;
+}
+
+.fifafigure{
+  width: 100%;
+  aspect-ratio: 2.6/1;
+  pointer-events: none;
+  user-select: none;
+  margin: auto;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 99;
+  background: url(https://i.ibb.co/d0SpR95J/image.png) center/cover;
+}
+
+.fifapiccaption{
+  text-align: center;
+  color: #fff
+}
+
+.fifaticket{
+  width: 45%;
+  aspect-ratio: 1/1;
+  pointer-events: none;
+  user-select: none;
+  margin: auto;
+  box-sizing: border-box;
+  position: relative;
+  z-index: 99;
+  background: url(https://i.ibb.co/yBhdfGDh/image.png) center/cover;
+}
+
+.fifatext002{
+  text-align: left;
+}
+
+.fifashadowboxyt{
+  width: 75%;
+  max-width: 900px;
+  margin: auto;
+  filter: drop-shadow(0 0 27.5px #000000);
+  position: relative;
+  z-index: 99;
+}
+
+.fifafooter{
+  width: 100%;
+  height: 800px;
+  margin: auto;
+  box-sizing: border-box;
+  border-radius: 0px 0px 50px 50px;
+  background: url(https://i.ibb.co/1GvN4nn3/02.png) 50% 0% / cover;
+  margin-top: -750px;
+  position: relative;
+  z-index: 98;
+}
