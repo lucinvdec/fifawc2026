@@ -74,6 +74,8 @@
 
 .fifatext {
   text-indent:50px;
+  position: relative;
+  z-index: 99;
 }
 
 .fifafigure{
