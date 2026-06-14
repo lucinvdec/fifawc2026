@@ -58,6 +58,8 @@
   text-align: justify;
   font-size: min(1.7vw, 18px);
   color: #fff
+  position: relative;
+  z-index: 99;
 }
 
 .fifaballline{
