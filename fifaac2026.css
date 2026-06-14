@@ -57,7 +57,7 @@
   padding: 0px 5vw 30px 5vw;
   text-align: justify;
   font-size: min(1.7vw, 18px);
-  color: #fff
+  color: #fff;
   position: relative;
   z-index: 99;
 }
